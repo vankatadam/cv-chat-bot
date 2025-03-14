@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "bun cvChatBot.ts"
+  },
   "dependencies": {
     "@google/generative-ai": "^0.24.0"
   }
